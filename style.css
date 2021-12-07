@@ -1,0 +1,28 @@
+.image-div{
+    height: 753px;
+    background-image: url('./images/img1.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.login-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.row{
+    background-color: #ececec;
+}
+.login-form{
+    width: 80%;
+    background: white;
+    padding: 25px;
+}
+.sign-up-modal{
+    text-align: center;
+    display: block;
+    color: black;
+}
+.sign-up-modal:hover{
+    text-decoration: none;
+    color: black;
+}
